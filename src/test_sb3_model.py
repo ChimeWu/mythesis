@@ -183,7 +183,6 @@ def testmodelusetrain3():
     print(f"Your score is: {info['cumulative_reward']} NOK")
     plotter.plot_episode()
 
-
 if __name__ == "__main__":
     testmodel()
     testmodel0()
